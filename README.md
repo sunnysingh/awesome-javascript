@@ -20,5 +20,6 @@
 - [OCLIF](https://oclif.io/) - Create command line tools your users love 
 - [react-rewards](https://github.com/thedevelobear/react-rewards) - Package containing a few microinteractions you can use to reward your users for little things and make them smile! 
 - [React Async](https://react-async.dev) - Flexible promise-based React data loader 
+- [Reach UI Tooltip](https://ui.reach.tech/tooltip/) - When the user's mouse or focus rests on an element, a non-interactive popup is displayed near it. 
 
 	
