@@ -14,5 +14,7 @@
 - [Arg](https://github.com/zeit/arg) - Simple argument parsing. 
 - [Navi](https://frontarm.com/navi/en/) - Blazing fast websites with vanilla create-react-app. 
 - [React Kawaii](https://react-kawaii.now.sh/) - Cute React SVG Components 
+- [Uppy](https://uppy.io/) - Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading.
+ 
 
 	
