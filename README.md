@@ -13,5 +13,6 @@
 - [progress-estimator](https://github.com/bvaughn/progress-estimator) - Logs a progress bar and estimation for how long a Promise will take to complete 
 - [Arg](https://github.com/zeit/arg) - Simple argument parsing. 
 - [Navi](https://frontarm.com/navi/en/) - Blazing fast websites with vanilla create-react-app. 
+- [React Kawaii](https://react-kawaii.now.sh/) - Cute React SVG Components 
 
 	
