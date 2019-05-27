@@ -7,5 +7,6 @@
  - [constate](https://github.com/diegohaz/constate) - Scalable state using React Hooks & Context 
 - [Glorious Demo](https://glorious.codes/demo) - The easiest way to show your code in action. 
 - [Storybook:](https://storybook.js.org/) - UI component explorer for frontend developers 
+- [React Epic Spinners](https://bondz.github.io/react-epic-spinners/) - Reusable react components for epic-spinners  
 
 	
