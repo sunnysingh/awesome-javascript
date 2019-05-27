@@ -18,5 +18,6 @@
  
 - [FlexSearch.js](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js 
 - [OCLIF](https://oclif.io/) - Create command line tools your users love 
+- [react-rewards](https://github.com/thedevelobear/react-rewards) - Package containing a few microinteractions you can use to reward your users for little things and make them smile! 
 
 	
