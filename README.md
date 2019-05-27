@@ -10,5 +10,6 @@
 - [React Epic Spinners](https://bondz.github.io/react-epic-spinners/) - Reusable react components for epic-spinners  
 - [styled-tools](https://github.com/diegohaz/styled-tools) - Useful interpolated functions for CSS-in-JS. Contribute to diegohaz/styled-tools development by creating an account on GitHub. 
 - [particles.js](https://vincentgarreau.com/particles.js/) - A lightweight JavaScript library for creating particles. 
+- [progress-estimator](https://github.com/bvaughn/progress-estimator) - Logs a progress bar and estimation for how long a Promise will take to complete 
 
 	
