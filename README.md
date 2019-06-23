@@ -28,8 +28,4 @@
 - [Uppy](https://uppy.io/) - Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading.
  
 - [FlexSearch.js](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js 
-
- ## Links
-	
- 
-	
+- [common-tags](https://github.com/declandewet/common-tags) - 🔖 Useful template literal tags for dealing with strings in ES2015+ 
